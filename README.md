@@ -36,3 +36,5 @@ python ZMTest01.py
 
 ## Further exploration
 In the src folder, there are other algorithms that can solve this problem. 
+
+output folder stores debugging images
